@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ricardostephan87@gmail.com
+	name = Ricardo Loaiza
